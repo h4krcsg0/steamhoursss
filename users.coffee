@@ -7,7 +7,10 @@ POSSIBLE_GAMES = [
   {name: 'CS 1.6', value: '10', checked: true}
   {name: 'CS Source', value: '240', checked: true}
   {name: 'CS GO', value: '730', checked: true}
-  {name: 'Dota 2', value: '570'}
+  {name: 'Rocket League', value: '252950', checked: true}
+  {name: 'Black Ops 2 MP', value: '202990', checked: true}
+  {name: 'Modern Warfare 3 MP', value: '42690', checked: true}
+  {name: 'Modern Warfare 2 MP', value: '10190', checked: true}
 ]
 
 account = null
