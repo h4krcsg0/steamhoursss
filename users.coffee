@@ -11,6 +11,8 @@ POSSIBLE_GAMES = [
   {name: 'Black Ops 2 MP', value: '202990', checked: true}
   {name: 'Modern Warfare 3 MP', value: '42690', checked: true}
   {name: 'Modern Warfare 2 MP', value: '10190', checked: true}
+  {name: 'Team Fortress 2', value: '10190', checked: true}
+  {name: 'Dota 2', value: '570'}
 ]
 
 account = null
