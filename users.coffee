@@ -12,7 +12,8 @@ POSSIBLE_GAMES = [
   {name: 'Modern Warfare 3 MP', value: '42690', checked: true}
   {name: 'Modern Warfare 2 MP', value: '10190', checked: true}
   {name: 'Team Fortress 2', value: '10190', checked: true}
-  {name: 'Dota 2', value: '570'}
+  {name: 'Clover Tale', value: '472680'}
+  {name: 'Elisa: The Innkeeper Prequel', value: '463060'}
 ]
 
 account = null
